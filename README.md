@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Sarah Refaat<br><br>🔭 I’m currently working on improving my ASP.NET Core backend skills<br><br>🌱 I’m learning more about C#, EF Core, Clean Architecture, and API security<br><br>👯 I’m looking to collaborate on .NET projects or backend-focused applications<br><br>💬 Ask me about REST APIs, Identity, Entity Framework Core<br><br>📫 How to reach me: sararefaat653@gmail.com<br><br>⚡ Fun fact: I love building structured systems and solving tricky bugs 😄
+👋 Hi, I'm Sarah Refaat<br><br>🔭 I’m currently working on improving my ASP.NET Core backend skills<br><br>🌱 I’m learning more about C#, EF Core, Clean Architecture, and API security<br><br>👯 I’m looking to collaborate on .NET projects or backend-focused applications<br><br>💬 Ask me about C#,.NET Core, REST APIs, Identity, Entity Framework Core<br><br>📫 How to reach me: sararefaat653@gmail.com<br><br>⚡ Fun fact: I love building structured systems and solving tricky bugs 😄
 
 
 ## 🌐 Socials:
